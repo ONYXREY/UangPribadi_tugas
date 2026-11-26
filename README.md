@@ -33,9 +33,9 @@ Gunakan daftar interaktif di bawah ini untuk menandai tugas yang sudah selesai l
 - [ ] **Income**: Mencatat, mengubah, dan menghapus pemasukan *(TODAY)*
 - [ ] **Expense**: Mencatat, mengubah, dan menghapus pengeluaran *(TODAY)*
 - [ ] **Penyimpanan Data**: Menyimpan data ke dalam Shared Preferences *(TODAY)*
-- [ ] **Saldo**: Menampilkan saldo saat ini *(Target: 26/11/2026)*
-- [ ] **Laporan**: Menghitung pemasukan & pengeluaran bulanan *(Target: 26/11/2026)*
-- [ ] **Dashboard**: Menampilkan ringkasan keuangan
-- [ ] **Transaksi**: Daftar transaksi (ubah/hapus, pencarian, filter, & sorting)
+- [ ] **Saldo**: Menampilkan saldo saat ini *(Target: 26/11/2026)* - selesai
+- [ ] **Laporan**: Menghitung pemasukan & pengeluaran bulanan *(Target: 26/11/2026)* -selesai
+- [ ] **Dashboard**: Menampilkan ringkasan keuangan *(Target: 30/11/2026)*
+- [ ] **Transaksi**: Daftar transaksi (ubah/hapus, pencarian, filter, & sorting) *(Target: 01/12/2026)*
 
 ---

@@ -25,6 +25,17 @@ Berikut adalah rincian target fitur dan status pengerjaan pada minggu pertama:
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
-* **Penyimpanan Data:** Android `SharedPreferences`
-* **Arsitektur/Fitur Utama:** CRUD (Create, Read, Update, Delete), Pencarian, Filter, & Sorting
+## ✅ Checklist Harian (Task List)
+
+Gunakan daftar interaktif di bawah ini untuk menandai tugas yang sudah selesai langsung dari tampilan GitHub:
+
+- [ ] **Kategori**: Membuat Master kategori *(TODAY)*
+- [ ] **Income**: Mencatat, mengubah, dan menghapus pemasukan *(TODAY)*
+- [ ] **Expense**: Mencatat, mengubah, dan menghapus pengeluaran *(TODAY)*
+- [ ] **Penyimpanan Data**: Menyimpan data ke dalam Shared Preferences *(TODAY)*
+- [ ] **Saldo**: Menampilkan saldo saat ini *(Target: 26/11/2026)*
+- [ ] **Laporan**: Menghitung pemasukan & pengeluaran bulanan *(Target: 26/11/2026)*
+- [ ] **Dashboard**: Menampilkan ringkasan keuangan
+- [ ] **Transaksi**: Daftar transaksi (ubah/hapus, pencarian, filter, & sorting)
+
+---
